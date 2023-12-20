@@ -29,7 +29,7 @@ Donde:
 - `Estado actual`: El estado actual del programa.
 - `char en string`: El carácter que lee.
 - `char a escribir`: El carácter a escribir en la posición actual.
-- `movimiento`: La acción/movimiento a realizar.
+- `movimiento`: La acción/movimiento a realizar. Opciones válidas: H (Halt), L (Left), R (Right)
 - `estado nuevo`: El nuevo estado después del movimiento.
 
 Este formato proporciona la estructura necesaria para representar los estados, caracteres y movimientos dentro de un archivo CSV para su uso con el programa correspondiente.

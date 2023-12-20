@@ -22,6 +22,18 @@
    Cabezal: 3, Estado actual: q6,  Palabra: ###XX###
    La palabra pertenece al Lenguaje
 
+   Ingrese la palabra a validar: 011
+   Cabezal: 3, Estado actual: q0,  Palabra: ###011###
+   Cabezal: 4, Estado actual: q1,  Palabra: ###X11###
+   Cabezal: 3, Estado actual: q2,  Palabra: ###XX1###
+   Cabezal: 2, Estado actual: q2,  Palabra: ###XX1###
+   Cabezal: 3, Estado actual: q0,  Palabra: ###XX1###
+   Cabezal: 4, Estado actual: q0,  Palabra: ###XX1###
+   Cabezal: 5, Estado actual: q0,  Palabra: ###XX1###
+   Cabezal: 6, Estado actual: q0,  Palabra: ###XX1###
+   Cabezal: 5, Estado actual: q4,  Palabra: ###XX1###
+   La palabra no pertenece al Lenguaje.
+
 ## Formato Válido para el CSV
 
 El formato válido para el archivo CSV debería seguir la estructura:
